@@ -5,7 +5,7 @@ class Cat
   
   attr_accessor :name
   
-  def 
+  def meaw
   
   end
   
