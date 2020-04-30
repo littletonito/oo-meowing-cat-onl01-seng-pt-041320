@@ -5,8 +5,8 @@ class Cat
   
   attr_accessor :name
   
-  def meaw
-  
+  def meow
+    puts 
   end
   
 end
